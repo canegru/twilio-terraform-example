@@ -6,3 +6,4 @@ terraform.tfstate.backup
 .terraform.lock.hcl
 twilio_infra_planfile
 execute.sh
+.DS_Store
