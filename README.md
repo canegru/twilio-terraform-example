@@ -31,7 +31,8 @@ terraform -help
 
 ```
 
-For windows or the official installation path, please visit https://www.terraform.io/downloads.html
+For windows or the official installation path, please visit https://www.terraform.io/downloads.html.
+
 For the official tutorial, you can navigate to https://learn.hashicorp.com/tutorials/terraform/install-cli
 
 ### Usage
