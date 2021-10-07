@@ -75,7 +75,7 @@ If you have trouble executing the script run `chmod +x ./execute.sh`
 
 #### 3 ) Delete Resources (Destroy Resources)
 
-If you would like to remove the resource `twilio_messaging_services_phone_numbers_v1.attach_number` (phone number) from the messaging service. The Terraform provider will then detach the phone number when executing the script again.
+If you would like to remove the phone number from the messaging service, comment out the `twilio_messaging_services_phone_numbers_v1.attach_number` resource. The Terraform provider will then detach the phone number when executing the script again.
 
 ```js
 
