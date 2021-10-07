@@ -105,3 +105,7 @@ Creates a messaging service named `TerraformExample`, enables the sticky sender,
 
 `variables.tf`
 Defines variables to be used across the Terraform deployment.
+
+## Going Further
+
+For a list of all resources and proprties, please visit the official Terraform Twilio Provider source https://github.com/twilio/terraform-provider-twilio/tree/main/twilio/resources or https://registry.terraform.io/providers/twilio/twilio/latest
