@@ -1,0 +1,8 @@
+secrets.auto.tfvars
+secrets.auto.vars
+terraform.tfstate
+terraform.tfstate.backup
+.terraform
+.terraform.lock.hcl
+twilio_infra_planfile
+execute.sh
